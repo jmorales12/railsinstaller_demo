@@ -1,0 +1,6 @@
+--- 
+cursor_positions: 
+  - :path: config.ru
+    :cursor_offset: 168
+    :timestamp: 2012-03-22 10:39:05.850000 -05:00
+files_to_retain: 0
